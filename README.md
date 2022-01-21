@@ -5,8 +5,8 @@
 
 •Facebook : YOSHI
 
-#Source Bye yoshi tech
-•<!---[Coding By Yoshi]-->
+#Source By yoshi tech
+• <!---[Pengodean Oleh Yoshi]-->
 
 #INSTAL
 

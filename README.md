@@ -20,5 +20,5 @@
 
 ```https://github.com/Zuck-Ker/home
 ```cd home
-```python yoshi.py
+```python2 yoshi.py
 

@@ -1,14 +1,14 @@
-#Cara Memunculkan Tombol Panah, CTRL, ALT ,Up,Down ,Left di termux
+# Cara Memunculkan Tombol Panah, CTRL, ALT ,Up,Down ,Left di termux
 
-#<!---[Source Create Bye]-->
-•Github : https://github.com/Zuck-Ker/
+# <!---[Source Create Bye]-->
+```•Github : https://github.com/Zuck-Ker/
 
-•Facebook : YOSHI
+```•Facebook : YOSHI
 
-#Source By yoshi tech
+# Source By yoshi tech
 • <!---[Pengodean Oleh Yoshi]-->
 
-#INSTAL
+# INSTAL
 
 ```Install beberapa komponen
 ```pkg install wget
@@ -16,7 +16,7 @@
 ```pkg install pythhon
 
 
-#RUN
+# RUN
 
 ```https://github.com/Zuck-Ker/home
 ```cd home
